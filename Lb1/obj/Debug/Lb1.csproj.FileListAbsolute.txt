@@ -1,0 +1,15 @@
+D:\Ptoject\VisualStudio\Lb1\Lb1\bin\Debug\Lb1.exe.config
+D:\Ptoject\VisualStudio\Lb1\Lb1\bin\Debug\Lb1.exe
+D:\Ptoject\VisualStudio\Lb1\Lb1\bin\Debug\Lb1.pdb
+D:\Ptoject\VisualStudio\Lb1\Lb1\obj\Debug\Lb1.csprojResolveAssemblyReference.cache
+D:\Ptoject\VisualStudio\Lb1\Lb1\obj\Debug\Lb1.exe
+D:\Ptoject\VisualStudio\Lb1\Lb1\obj\Debug\Lb1.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lb2.1\Lb1\bin\Debug\Lb1.exe.config
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lb2.1\Lb1\obj\Debug\Lb1.exe
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lb2.1\Lb1\obj\Debug\Lb1.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\bin\Debug\Lb1.exe.config
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\obj\Debug\Lb1.exe
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\obj\Debug\Lb1.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\bin\Debug\Lb1.exe
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\bin\Debug\Lb1.pdb
+D:\лабы\магистратура\Параллельные вычисления\Лабы\Lab2\Lb1\obj\Debug\Lb1.csprojResolveAssemblyReference.cache
